@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @SOURAV
 - 👀 I’m interested in anime 
-- 🌱 I’m currently learning c 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-- ⚡ Fun fact: ...
+- 🌱 I’m currently learning python 
+- ⚡ Fun fact: 12
 
 <!---
 SOURAV-7869/SOURAV-7869 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
